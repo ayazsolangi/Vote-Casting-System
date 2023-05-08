@@ -1,0 +1,15 @@
+G:\C#\Visual 2015\VotingSystem\VotingSystem\bin\Debug\VotingSystem.exe.config
+G:\C#\Visual 2015\VotingSystem\VotingSystem\bin\Debug\VotingSystem.exe
+G:\C#\Visual 2015\VotingSystem\VotingSystem\bin\Debug\VotingSystem.pdb
+G:\C#\Visual 2015\VotingSystem\VotingSystem\obj\Debug\VotingSystem.csprojResolveAssemblyReference.cache
+G:\C#\Visual 2015\VotingSystem\VotingSystem\obj\Debug\VotingSystem.Form1.resources
+G:\C#\Visual 2015\VotingSystem\VotingSystem\obj\Debug\VotingSystem.Properties.Resources.resources
+G:\C#\Visual 2015\VotingSystem\VotingSystem\obj\Debug\VotingSystem.csproj.GenerateResource.Cache
+G:\C#\Visual 2015\VotingSystem\VotingSystem\obj\Debug\VotingSystem.exe
+G:\C#\Visual 2015\VotingSystem\VotingSystem\obj\Debug\VotingSystem.pdb
+G:\C#\Visual 2015\VotingSystem\VotingSystem\obj\Debug\VotingSystem.Dashboard.resources
+G:\C#\Visual 2015\VotingSystem\VotingSystem\obj\Debug\VotingSystem.FormMNA.resources
+G:\C#\Visual 2015\VotingSystem\VotingSystem\obj\Debug\VotingSystem.FormMNA_Icons.resources
+G:\C#\Visual 2015\VotingSystem\VotingSystem\obj\Debug\VotingSystem.Result.resources
+G:\C#\Visual 2015\VotingSystem\VotingSystem\obj\Debug\VotingSystem.Form_MPA.resources
+G:\C#\Visual 2015\VotingSystem\VotingSystem\obj\Debug\VotingSystem.Form_MPA_Icons.resources
